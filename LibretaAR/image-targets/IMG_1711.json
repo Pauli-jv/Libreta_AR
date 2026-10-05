@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 4,
+    "width": 798,
+    "height": 1065,
+    "isRotated": true,
+    "originalWidth": 808,
+    "originalHeight": 1065
+  },
+  "imagePath": "image-targets/IMG_1711_luminance.jpg",
+  "metadata": null,
+  "name": "IMG_1711",
+  "resources": {
+    "originalImage": "IMG_1711_original.jpg",
+    "croppedImage": "IMG_1711_cropped.jpg",
+    "thumbnailImage": "IMG_1711_thumbnail.jpg",
+    "luminanceImage": "IMG_1711_luminance.jpg"
+  },
+  "created": 1790630082772,
+  "updated": 1790630082772
+}
