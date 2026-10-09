@@ -151,6 +151,339 @@
         "name": "IMG_1711"
       },
       "order": 4.574221000166462
+    },
+    "56a88adb-6357-4637-9f42-b85e0d56146f": {
+      "id": "56a88adb-6357-4637-9f42-b85e0d56146f",
+      "position": [
+        -1.1604961573994568,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.707106799999999,
+        0,
+        0,
+        0.7071067623730954
+      ],
+      "scale": [
+        1,
+        1.0000000532124818,
+        1.0000000532124818
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Gato_Chroma.mp4"
+        }
+      },
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "components": {
+        "ffd9f704-9d96-459d-b112-09aa62525a0c": {
+          "id": "ffd9f704-9d96-459d-b112-09aa62525a0c",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 10,
+            "keyGreen": 229,
+            "keyBlue": 10
+          }
+        }
+      },
+      "name": "Plano",
+      "order": 3.738903625758986,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "3b96695f-0e27-47b7-8797-af20ec5b787e": {
+      "id": "3b96695f-0e27-47b7-8797-af20ec5b787e",
+      "position": [
+        -0.9446260335577659,
+        0,
+        1.3436710517288093
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "components": {
+        "0f0e9b30-e5a2-4f33-ac4f-cbf71fe279ff": {
+          "id": "0f0e9b30-e5a2-4f33-ac4f-cbf71fe279ff",
+          "name": "Model Animation Toggle",
+          "parameters": {
+            "actionClip": "Dance"
+          }
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/AvatarFinal.glb"
+        },
+        "animationClip": "Idle",
+        "loop": true
+      },
+      "name": "AvatarFinal.glb",
+      "order": 3.7795551853139155
+    },
+    "d40f344d-1c9c-4b5a-b2a7-238300159f01": {
+      "id": "d40f344d-1c9c-4b5a-b2a7-238300159f01",
+      "position": [
+        -0.9270796414468321,
+        0,
+        1.8066198337520296
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "components": {
+        "dd27256d-5008-4ac9-acf3-b1ec208f66bf": {
+          "id": "dd27256d-5008-4ac9-acf3-b1ec208f66bf",
+          "name": "Open URL 3D Object",
+          "parameters": {
+            "url": "https://co.pinterest.com/"
+          }
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/Whatssap3D.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      },
+      "name": "Whatssap3D.glb",
+      "order": 3.8202067448688455
+    },
+    "2d1c70d3-2134-4023-ad50-76d09a5f9ef8": {
+      "id": "2d1c70d3-2134-4023-ad50-76d09a5f9ef8",
+      "position": [
+        -2.6359983237945634,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "components": {
+        "21f3915f-8843-4b57-bcbb-71e23243988b": {
+          "id": "21f3915f-8843-4b57-bcbb-71e23243988b",
+          "name": "Open URL UI Button",
+          "parameters": {}
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Botón",
+      "order": 3.8608583044237754
+    },
+    "6f3b3030-9160-4877-a44d-5ac6cfe594c7": {
+      "id": "6f3b3030-9160-4877-a44d-5ac6cfe594c7",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "2d1c70d3-2134-4023-ad50-76d09a5f9ef8",
+      "components": {},
+      "name": "Icono",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "url",
+          "url": "https://cdn.8thwall.com/web/assets/sprites/8w-icon-m8j35d7y.png"
+        },
+        "backgroundOpacity": 1
+      },
+      "order": 0.45528074269342317
+    },
+    "067ffa18-7882-462f-bf6c-baf406212358": {
+      "id": "067ffa18-7882-462f-bf6c-baf406212358",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "2d1c70d3-2134-4023-ad50-76d09a5f9ef8",
+      "components": {},
+      "name": "Texto",
+      "ui": {
+        "width": 50,
+        "height": 14,
+        "text": "Button",
+        "color": "#ffffff",
+        "fontSize": 16
+      },
+      "order": 1.2297616080112035
+    },
+    "1606a252-a874-400a-a995-cc61b457af1f": {
+      "id": "1606a252-a874-400a-a995-cc61b457af1f",
+      "position": [
+        -0.022657746588554017,
+        0,
+        0.5154660552776305
+      ],
+      "rotation": [
+        -0.707106799999999,
+        0,
+        0,
+        0.7071067623730954
+      ],
+      "scale": [
+        1,
+        1.0000000532124822,
+        1.0000000532124822
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/waves.mp4"
+        }
+      },
+      "parentId": "78520779-2ee3-44e8-a6b1-b3ef67cd23f9",
+      "components": {
+        "b80b0251-8e03-48cf-ad07-a57d5cee820b": {
+          "id": "b80b0251-8e03-48cf-ad07-a57d5cee820b",
+          "name": "Video Toggle Button",
+          "parameters": {
+            "videoEntity": {
+              "type": "entity",
+              "id": "1606a252-a874-400a-a995-cc61b457af1f"
+            },
+            "playIcon": {
+              "type": "entity",
+              "id": "78520779-2ee3-44e8-a6b1-b3ef67cd23f9"
+            },
+            "imageTarget": {
+              "type": "entity",
+              "id": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8"
+            }
+          }
+        }
+      },
+      "name": "video mar",
+      "order": 11.83668094504271,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "78520779-2ee3-44e8-a6b1-b3ef67cd23f9": {
+      "id": "78520779-2ee3-44e8-a6b1-b3ef67cd23f9",
+      "position": [
+        -1.1378384108109028,
+        0,
+        1.9342647523902237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999997,
+        0.9999999999999997
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/play.svg"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "boton play videeo",
+      "order": 3.9015098639787054
     }
   },
   "spaces": {
