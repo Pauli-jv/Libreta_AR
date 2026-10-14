@@ -155,8 +155,8 @@
     "697f8c42-7c19-4a8d-a29e-2579fe8cc344": {
       "id": "697f8c42-7c19-4a8d-a29e-2579fe8cc344",
       "position": [
-        1.1591041223791092,
-        1.084291759205541,
+        -0.0013920350203475707,
+        0.6899364088165798,
         0
       ],
       "rotation": [
@@ -172,7 +172,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
       "components": {
         "d4cc523d-f6b5-4707-8783-0bbdca021eb9": {
           "id": "d4cc523d-f6b5-4707-8783-0bbdca021eb9",
@@ -201,13 +201,13 @@
         "backgroundSize": "contain"
       },
       "name": "whats personal",
-      "order": 5.662918389931671
+      "order": 3.7831156499411884
     },
     "341a1159-76f0-4a22-a06b-b19a89e4c49f": {
       "id": "341a1159-76f0-4a22-a06b-b19a89e4c49f",
       "position": [
-        0.8139159704014467,
-        1.0715927973990045,
+        -0.3465801869980101,
+        0.6772374470100433,
         0
       ],
       "rotation": [
@@ -223,7 +223,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
       "components": {
         "25c8cc58-4eba-45b5-b423-cc2eff7fdd98": {
           "id": "25c8cc58-4eba-45b5-b423-cc2eff7fdd98",
@@ -252,13 +252,13 @@
         "backgroundSize": "contain"
       },
       "name": "instagram personal",
-      "order": 6.830276611287354
+      "order": 3.867979233678321
     },
     "a2d320bf-20bc-4963-95a5-9b613eb8e6f3": {
       "id": "a2d320bf-20bc-4963-95a5-9b613eb8e6f3",
       "position": [
-        1.4953727322219714,
-        1.076282353556795,
+        0.33487657482251465,
+        0.6819270031678337,
         0
       ],
       "rotation": [
@@ -274,7 +274,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
       "components": {
         "29349217-cc30-4dab-a388-fafbfbb37b16": {
           "id": "29349217-cc30-4dab-a388-fafbfbb37b16",
@@ -303,25 +303,25 @@
         "backgroundSize": "contain"
       },
       "name": "instagram diseño",
-      "order": 7.843332156649071
+      "order": 3.952842817415454
     },
     "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3": {
       "id": "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3",
       "position": [
         -0.0005456385382698326,
-        0.6830371134439392,
-        -0.05432367860729552
+        0.6269585974661629,
+        -0.054323678607295506
       ],
       "rotation": [
-        -2.6606238795218357e-8,
+        -2.660623879521836e-8,
         0,
         0,
-        0.9999999999999997
+        0.9999999999999996
       ],
       "scale": [
-        0.9999999999999987,
-        1.700000090461218,
-        0.4000000212849927
+        0.8999999999999985,
+        1.5300000814150956,
+        0.36000001915649327
       ],
       "geometry": {
         "type": "plane",
@@ -367,8 +367,8 @@
     "114b0f95-041a-42e3-b8b7-55a6da68f14d": {
       "id": "114b0f95-041a-42e3-b8b7-55a6da68f14d",
       "position": [
-        0.0005456385382698326,
-        0.05432367860729537,
+        -1.159950518861187,
+        -0.3400316717816658,
         0.6830371134439392
       ],
       "rotation": [
@@ -384,12 +384,12 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
       "components": {},
       "ui": {
         "type": "3d",
-        "width": 30,
-        "height": 30,
+        "width": 22,
+        "height": 20,
         "image": {
           "type": "asset",
           "asset": "assets/play_video.png"
@@ -398,7 +398,7 @@
         "backgroundSize": "contain"
       },
       "name": "icono play video",
-      "order": 11.35735110331515
+      "order": 4.037706401152587
     }
   },
   "spaces": {
