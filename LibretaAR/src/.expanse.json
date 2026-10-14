@@ -155,8 +155,8 @@
     "697f8c42-7c19-4a8d-a29e-2579fe8cc344": {
       "id": "697f8c42-7c19-4a8d-a29e-2579fe8cc344",
       "position": [
-        1.1897882087334652,
-        1.5242889133801742,
+        1.1591041223791092,
+        1.084291759205541,
         0
       ],
       "rotation": [
@@ -206,8 +206,8 @@
     "341a1159-76f0-4a22-a06b-b19a89e4c49f": {
       "id": "341a1159-76f0-4a22-a06b-b19a89e4c49f",
       "position": [
-        0.8010748875770608,
-        1.5260252714841864,
+        0.8139159704014467,
+        1.0715927973990045,
         0
       ],
       "rotation": [
@@ -257,8 +257,8 @@
     "a2d320bf-20bc-4963-95a5-9b613eb8e6f3": {
       "id": "a2d320bf-20bc-4963-95a5-9b613eb8e6f3",
       "position": [
-        1.5656145546680578,
-        1.5297180338734753,
+        1.4953727322219714,
+        1.076282353556795,
         0
       ],
       "rotation": [
@@ -304,6 +304,101 @@
       },
       "name": "instagram diseño",
       "order": 7.843332156649071
+    },
+    "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3": {
+      "id": "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3",
+      "position": [
+        -0.0005456385382698326,
+        0.6830371134439392,
+        -0.05432367860729552
+      ],
+      "rotation": [
+        -2.6606238795218357e-8,
+        0,
+        0,
+        0.9999999999999997
+      ],
+      "scale": [
+        0.9999999999999987,
+        1.700000090461218,
+        0.4000000212849927
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/video_ra_jeje_1.mp4"
+        }
+      },
+      "parentId": "114b0f95-041a-42e3-b8b7-55a6da68f14d",
+      "components": {
+        "f2468417-5b2e-4f23-b20e-d19c9a4b6860": {
+          "id": "f2468417-5b2e-4f23-b20e-d19c9a4b6860",
+          "name": "Video Toggle Button",
+          "parameters": {
+            "videoEntity": {
+              "type": "entity",
+              "id": "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3"
+            },
+            "playIcon": {
+              "type": "entity",
+              "id": "114b0f95-041a-42e3-b8b7-55a6da68f14d"
+            },
+            "imageTarget": {
+              "type": "entity",
+              "id": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8"
+            },
+            "playOnTargetFound": true
+          }
+        }
+      },
+      "name": "video presentación",
+      "order": 9.556976094187753,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "114b0f95-041a-42e3-b8b7-55a6da68f14d": {
+      "id": "114b0f95-041a-42e3-b8b7-55a6da68f14d",
+      "position": [
+        0.0005456385382698326,
+        0.05432367860729537,
+        0.6830371134439392
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 30,
+        "height": 30,
+        "image": {
+          "type": "asset",
+          "asset": "assets/play_video.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "icono play video",
+      "order": 11.35735110331515
     }
   },
   "spaces": {
