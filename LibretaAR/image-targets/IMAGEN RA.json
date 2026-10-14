@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 19,
+    "left": 0,
+    "width": 2363,
+    "height": 3150,
+    "isRotated": true,
+    "originalWidth": 2363,
+    "originalHeight": 3190
+  },
+  "imagePath": "image-targets/IMAGEN RA_luminance.png",
+  "metadata": null,
+  "name": "IMAGEN RA",
+  "resources": {
+    "originalImage": "IMAGEN RA_original.png",
+    "croppedImage": "IMAGEN RA_cropped.png",
+    "thumbnailImage": "IMAGEN RA_thumbnail.png",
+    "luminanceImage": "IMAGEN RA_luminance.png"
+  },
+  "created": 1791947708310,
+  "updated": 1791947708310
+}
