@@ -44,12 +44,12 @@
       "material": null,
       "name": "Camera",
       "position": [
-        0,
+        1.9322993070284034,
         2,
         3
       ],
       "rotation": [
-        0.0004436887233141012,
+        0.00044368872331410124,
         0.9659425615285845,
         -0.25875089860082223,
         0.0016563336561801576
@@ -94,7 +94,7 @@
     "6f590606-e54c-43c2-ae75-9ccdf305e2b2": {
       "id": "6f590606-e54c-43c2-ae75-9ccdf305e2b2",
       "position": [
-        -0.29031106929340444,
+        -2.1938207219740344,
         -0.28372567201808746,
         0.1446416609394452
       ],
@@ -128,7 +128,7 @@
       "id": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
       "position": [
         1.1604961573994568,
-        0,
+        0.3943553503889612,
         0
       ],
       "rotation": [
@@ -151,6 +151,159 @@
         "name": "IMAGEN RA"
       },
       "order": 4.574221000166462
+    },
+    "697f8c42-7c19-4a8d-a29e-2579fe8cc344": {
+      "id": "697f8c42-7c19-4a8d-a29e-2579fe8cc344",
+      "position": [
+        1.1897882087334652,
+        1.2485225915213893,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "d4cc523d-f6b5-4707-8783-0bbdca021eb9": {
+          "id": "d4cc523d-f6b5-4707-8783-0bbdca021eb9",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://wa.me/+573215296618"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 38,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/social.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "whats personal",
+      "order": 5.662918389931671
+    },
+    "341a1159-76f0-4a22-a06b-b19a89e4c49f": {
+      "id": "341a1159-76f0-4a22-a06b-b19a89e4c49f",
+      "position": [
+        0.8010748875770608,
+        1.2342849155054767,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.6000000000000001,
+        0.6000000000000001,
+        0.6000000000000001
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "25c8cc58-4eba-45b5-b423-cc2eff7fdd98": {
+          "id": "25c8cc58-4eba-45b5-b423-cc2eff7fdd98",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://instagram.com/lths_p?vrfl=Ym04eHh3anU3ZXQ1&utm_source=qr"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 36,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/LOGO_IG.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "instagram personal",
+      "order": 6.830276611287354
+    },
+    "a2d320bf-20bc-4963-95a5-9b613eb8e6f3": {
+      "id": "a2d320bf-20bc-4963-95a5-9b613eb8e6f3",
+      "position": [
+        1.5656145546680578,
+        1.2376173221584825,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.6000000000000001,
+        0.6000000000000001,
+        0.6000000000000001
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "29349217-cc30-4dab-a388-fafbfbb37b16": {
+          "id": "29349217-cc30-4dab-a388-fafbfbb37b16",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://instagram.com/paujv.design?cplk=OTh5amI4MjR3cW45&utm_source=qr"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 36,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/LOGO_IG.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "instagram diseño",
+      "order": 7.843332156649071
     }
   },
   "spaces": {
