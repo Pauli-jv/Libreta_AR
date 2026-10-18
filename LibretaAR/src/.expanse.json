@@ -117,20 +117,20 @@
       "imageTarget": {
         "name": "IMAGEN RA"
       },
-      "order": 1.3759382307783632
+      "order": 1.0709233339609865
     },
     "697f8c42-7c19-4a8d-a29e-2579fe8cc344": {
       "id": "697f8c42-7c19-4a8d-a29e-2579fe8cc344",
       "position": [
-        0.029743346905394485,
-        0.5309208790099171,
-        0.06662038275370519
+        1.1902395043048513,
+        0.4609757331426665,
+        -0.5309208790099171
       ],
       "rotation": [
+        -0.7071067811865475,
         0,
         0,
-        0,
-        1
+        0.7071067811865476
       ],
       "scale": [
         0.6,
@@ -139,7 +139,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "d4cc523d-f6b5-4707-8783-0bbdca021eb9": {
           "id": "d4cc523d-f6b5-4707-8783-0bbdca021eb9",
@@ -168,20 +168,20 @@
         "backgroundSize": "contain"
       },
       "name": "whats personal",
-      "order": 2.101896202841907
+      "order": 1.121611960888107
     },
     "341a1159-76f0-4a22-a06b-b19a89e4c49f": {
       "id": "341a1159-76f0-4a22-a06b-b19a89e4c49f",
       "position": [
-        -0.28718870626275805,
-        0.5247649627385544,
-        0.05131550504335325
+        0.8733074511366987,
+        0.44567085543231455,
+        -0.5247649627385544
       ],
       "rotation": [
+        -0.7071067811865475,
         0,
         0,
-        0,
-        1
+        0.7071067811865476
       ],
       "scale": [
         0.6000000000000001,
@@ -190,7 +190,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "25c8cc58-4eba-45b5-b423-cc2eff7fdd98": {
           "id": "25c8cc58-4eba-45b5-b423-cc2eff7fdd98",
@@ -219,20 +219,20 @@
         "backgroundSize": "contain"
       },
       "name": "instagram personal",
-      "order": 2.2871210942257143
+      "order": 1.1261233026651403
     },
     "a2d320bf-20bc-4963-95a5-9b613eb8e6f3": {
       "id": "a2d320bf-20bc-4963-95a5-9b613eb8e6f3",
       "position": [
-        0.33487657482251465,
-        0.5310082079096355,
-        0.06338606499420807
+        1.4953727322219714,
+        0.45774141538316937,
+        -0.5310082079096355
       ],
       "rotation": [
+        -0.7071067811865475,
         0,
         0,
-        0,
-        1
+        0.7071067811865476
       ],
       "scale": [
         0.6000000000000001,
@@ -241,7 +241,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "29349217-cc30-4dab-a388-fafbfbb37b16": {
           "id": "29349217-cc30-4dab-a388-fafbfbb37b16",
@@ -270,7 +270,7 @@
         "backgroundSize": "contain"
       },
       "name": "instagram diseño",
-      "order": 2.4723459856095227
+      "order": 1.1306346444421733
     },
     "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3": {
       "id": "08c70af7-f3d2-4750-a77f-2fdefb0a1fc3",
@@ -334,15 +334,15 @@
     "114b0f95-041a-42e3-b8b7-55a6da68f14d": {
       "id": "114b0f95-041a-42e3-b8b7-55a6da68f14d",
       "position": [
-        -0.8972513627665762,
-        -0.4967793140973794,
-        0.08370749980418513
+        0.26324479463288053,
+        0.4780628501931462,
+        0.4967793140973794
       ],
       "rotation": [
-        4.551914400963142e-15,
-        -8.436415478015849e-18,
-        -1.0114108281815551e-17,
-        1
+        -0.7071067811865442,
+        -1.3117201145138952e-17,
+        -1.1863079583146424e-18,
+        0.7071067811865508
       ],
       "scale": [
         1,
@@ -351,7 +351,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "ui": {
         "type": "3d",
@@ -365,7 +365,54 @@
         "backgroundSize": "contain"
       },
       "name": "icono play video",
-      "order": 2.499839604964027
+      "order": 1.1351459862192066
+    },
+    "9eb5213b-9aad-4824-a50f-feb11e02e46f": {
+      "id": "9eb5213b-9aad-4824-a50f-feb11e02e46f",
+      "position": [
+        1.4099156114734703,
+        0.7005560539732554,
+        0.30313979949898173
+      ],
+      "rotation": [
+        -0.4999999999999999,
+        -0.5,
+        0.5,
+        0.5000000000000001
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "0b6138cd-eec8-4573-a73a-0bc33dde4f59": {
+          "id": "0b6138cd-eec8-4573-a73a-0bc33dde4f59",
+          "name": "Model Animation Toggle",
+          "parameters": {
+            "returnToIdle": false,
+            "target": {
+              "type": "entity",
+              "id": "6d0b86cd-cd9c-4e35-8822-e6433da81bd8"
+            },
+            "idleClip": "Jugar a todo",
+            "actionClip": "Jugar a todo"
+          }
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/letras_animacion_RA.glb"
+        },
+        "animationClip": "*",
+        "loop": true
+      },
+      "name": "letras_animacion_RA.glb",
+      "order": 2.7315343336036637
     }
   },
   "spaces": {
